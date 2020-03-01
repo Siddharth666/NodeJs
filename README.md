@@ -20,4 +20,4 @@ https://resthub2.herokuapp.com
 Get in Touch
 ===============
 
-I am available on twitter, facebook, linkedin, gmail @dinyangetoh
+I am available on facebook, linkedin, Siddharth Singha
